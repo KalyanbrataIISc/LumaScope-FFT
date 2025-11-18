@@ -1,0 +1,7 @@
+{
+  "name": "LumaScope FFT",
+  "description": "Real-time high-speed camera brightness analysis with time-series plotting and Fast Fourier Transform.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
