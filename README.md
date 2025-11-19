@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Klk3d5r-tzQAfTnu0gVSN9
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Native Android app
+
+The repository now also contains a fully native, offline Android implementation in [`android-app/`](android-app). Open the folder in Android Studio (Giraffe or newer) and run the `app` configuration on a device running Android 8.0 (API 26) or later. The Android build uses CameraX and Jetpack Compose, so no network connection is required once it is installed on the device.
