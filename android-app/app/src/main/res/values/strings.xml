@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LumaScope FFT</string>
+    <string name="permission_rationale">Camera access is required to sample light intensity for FFT processing.</string>
+</resources>
